@@ -19,14 +19,23 @@ button {
 }
 
 .adr45 {
-    width: 48%;
+    color: blue;
+    width: 40%;
+    background-color: rgb(217, 213, 255);
+    border-radius: 12px;
+    padding: 10px 20px;
 }
 
 .adr {
-    width: 98%;
+    color: blue;
+    width: 90%;
+    background-color: rgb(215, 185, 253);
+    border-radius: 12px;
+    padding: 10px 20px;
 }
 
 .btn-c {
+    color: blue;
     margin: auto;
     width: 10%;
     padding: 10px;
@@ -35,8 +44,8 @@ button {
 button {
     color: aliceblue;
     background-color: blue;
-    border-radius: 12px;
-    padding: 8px 4px;
+    border-radius: 26px;
+    padding: 18px 48px;
 }
 
 .thanks {
