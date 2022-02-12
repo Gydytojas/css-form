@@ -2,9 +2,6 @@ body {
     background-color:#d9e8ff;
 }
 
-button {
-
-}
 .form-place {
     background-color: white;
     margin: auto;
@@ -15,7 +12,9 @@ button {
 .getin {
     color: blue;
     text-align: left;
-    margin-left: 10%;
+    margin-left: 12%;
+    font-size: 28px;
+    font-weight: 800;
 }
 
 .adr45 {
@@ -23,7 +22,8 @@ button {
     width: 40%;
     background-color: rgb(217, 213, 255);
     border-radius: 12px;
-    padding: 10px 20px;
+    padding: 16px 20px;
+    margin-left: 10px;
 }
 
 .adr {
@@ -31,13 +31,14 @@ button {
     width: 90%;
     background-color: rgb(215, 185, 253);
     border-radius: 12px;
-    padding: 10px 20px;
+    padding: 16px 20px;
+    margin-left: 12px;
 }
 
 .btn-c {
     color: blue;
     margin: auto;
-    width: 10%;
+    width: 20%;
     padding: 10px;
 }
 
@@ -46,10 +47,18 @@ button {
     background-color: blue;
     border-radius: 26px;
     padding: 18px 48px;
+    font-size: 24px;
 }
 
 .thanks {
     color: green; 
     text-align: left;
-    margin-left: 10%;   
+    margin-left: 12%;  
+    font-size: 28px; 
 }
+
+::placeholder {
+    color: rgb(77, 65, 255);
+    font-weight: 700;
+    font-size: 18px;
+  }
