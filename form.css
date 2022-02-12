@@ -13,26 +13,34 @@ body {
     color: blue;
     text-align: left;
     margin-left: 12%;
-    font-size: 28px;
-    font-weight: 800;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .adr45 {
     color: blue;
     width: 40%;
-    background-color: rgb(217, 213, 255);
+    background-color: rgb(213, 229, 255);
     border-radius: 12px;
+    border: 0px;
     padding: 16px 20px;
-    margin-left: 10px;
+    margin-left: 14px;
 }
 
 .adr {
     color: blue;
-    width: 90%;
-    background-color: rgb(215, 185, 253);
+    width: 92%;
+    background-color: rgb(185, 192, 253);
+    border: 0px;
     border-radius: 12px;
     padding: 16px 20px;
     margin-left: 12px;
+}
+
+.extra {
+    position: relative;
+    float: right;
 }
 
 .btn-c {
@@ -47,18 +55,19 @@ button {
     background-color: blue;
     border-radius: 26px;
     padding: 18px 48px;
-    font-size: 24px;
+    font-size: 18px;
 }
 
 .thanks {
-    color: green; 
+    color: rgb(0, 199, 116); 
     text-align: left;
     margin-left: 12%;  
-    font-size: 28px; 
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 ::placeholder {
     color: rgb(77, 65, 255);
-    font-weight: 700;
-    font-size: 18px;
+    font-weight: 600;
+    font-size: 16px;
   }
