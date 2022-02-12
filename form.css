@@ -1,0 +1,21 @@
+body { 
+    background-color:#d9e8ff;
+}
+
+.form-place {
+    background-color: white;
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+
+.getin {
+    color: blue;
+    text-align: left;
+}
+
+table {
+    margin: auto;
+    width: 90%;
+}
+
