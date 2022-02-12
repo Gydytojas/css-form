@@ -2,6 +2,9 @@ body {
     background-color:#d9e8ff;
 }
 
+button {
+
+}
 .form-place {
     background-color: white;
     margin: auto;
@@ -12,10 +15,32 @@ body {
 .getin {
     color: blue;
     text-align: left;
+    margin-left: 10%;
 }
 
-table {
+.adr45 {
+    width: 48%;
+}
+
+.adr {
+    width: 98%;
+}
+
+.btn-c {
     margin: auto;
-    width: 90%;
+    width: 10%;
+    padding: 10px;
 }
 
+button {
+    color: aliceblue;
+    background-color: blue;
+    border-radius: 12px;
+    padding: 8px 4px;
+}
+
+.thanks {
+    color: green; 
+    text-align: left;
+    margin-left: 10%;   
+}
